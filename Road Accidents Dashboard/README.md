@@ -2,13 +2,18 @@
 
 [![Road Accident Analysis](https://github.com/Shantydotcom/Microsoft-Power-BI-Projects/blob/main/Road%20Accidents%20Dashboard/Road%20Accident%20Analysis.png)
 
-This project is a dynamic and interactive Power BI dashboard designed to analyze road accident data. It provides actionable insights into accident trends, hotspots, and key contributing factors such as road conditions, weather, and light conditions. The dashboard can be used by stakeholders like government agencies, urban planners, and public safety officials to make data-driven decisions to improve road safety.
+This project is a dynamic and interactive Power BI dashboard designed to analyze road accident data for the years 2021 and 2022. It provides actionable insights into accident trends, hotspots, and key contributing factors such as road conditions, weather, and light conditions. The dashboard can be used by stakeholders like government agencies, urban planners, and public safety officials to make data-driven decisions to improve road safety.
 
 ## Dashboard Features
 
 ### 1. Key Performance Indicators (KPIs):
-- **Total Casualties and Accidents**: Year-to-date (YTD) and year-on-year (YoY) growth.
-- **Accident Severity**: Breakdown of casualties into fatal, serious, and slight categories.
+- **Total Casualties and Total Accidents**: Current year and year-on-year (YoY) growth.
+- **Total Casualties by Accident Severity**: Breakdown of casualties into fatal, serious, and slight categories. Current year and year-on-year (YoY) growth.
+- **Total Casualties by Vehicle Type**: Current year
+- **Casualties monthly trends**: Current year and previous year
+- **Casualties by Road Type**: Current year
+- **Casualties by Area/Location & by Day/Night**: Current year
+- **Total Casualties and Total Accidents**: By location
 
 ### 2. Visual Insights:
 - **Monthly Trend Analysis**: Comparison of current and previous years' casualties.
