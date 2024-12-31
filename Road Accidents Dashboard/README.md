@@ -1,7 +1,6 @@
 #### Road Accidents Analysis Dashboard
 
-![Dashboard Screenshot](Road Accident Analysis.png)
-
+(Road Accident Analysis.png)
 
 This project is a dynamic and interactive Power BI dashboard designed to analyze road accident data. It provides actionable insights into accident trends, hotspots, and key contributing factors such as road conditions, weather, and light conditions. The dashboard can be used by stakeholders like government agencies, urban planners, and public safety officials to make data-driven decisions to improve road safety.
 
@@ -30,7 +29,7 @@ This project is a dynamic and interactive Power BI dashboard designed to analyze
 - **DAX (Data Analysis Expressions)**: For creating measures and KPIs.
 - **Excel**: Used as the source of raw data.
 
-###  Key Insights
+## 5. Key Insights
 
 - **Urban Areas Have More Accidents**:  
   Casualties are significantly higher in urban areas, suggesting a need for improved traffic management in cities.
@@ -41,7 +40,7 @@ This project is a dynamic and interactive Power BI dashboard designed to analyze
 - **Daylight Accidents are More Frequent**:  
   Most accidents occur during daylight hours, possibly due to higher traffic volumes.
 
-### Dataset
+## 6. Dataset
 
 The dataset includes road accident records with fields like:
 - Accident severity (fatal, serious, slight)
