@@ -1,6 +1,6 @@
 # Road Accidents Analysis Dashboard
 
-![Road Accident Analysis](Road%20Accidents%20Dashboard/Road%20Accident%20Analysis.png)
+[![Road Accident Analysis](Road%20Accidents%20Dashboard/Road%20Accident%20Analysis.png)](https://github.com/Shantydotcom/Microsoft-Power-BI-Projects/blob/main/Road%20Accidents%20Dashboard/Road%20Accident%20Analysis.png)
 
 This project is a dynamic and interactive Power BI dashboard designed to analyze road accident data. It provides actionable insights into accident trends, hotspots, and key contributing factors such as road conditions, weather, and light conditions. The dashboard can be used by stakeholders like government agencies, urban planners, and public safety officials to make data-driven decisions to improve road safety.
 
