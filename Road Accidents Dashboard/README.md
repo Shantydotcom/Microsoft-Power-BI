@@ -23,13 +23,13 @@ This project is a dynamic and interactive Power BI dashboard designed to analyze
 - **Slicers**: Filter by Weather Conditions and Road Surface.
 - **Clickable Charts**: Enable detailed filtering across visuals.
 
-### 4. Tools and Technologies
+### 4. Tools and Technologies:
 - **Power BI Desktop**: For data visualization and reporting.
 - **Power Query**: For data cleaning and transformation.
 - **DAX (Data Analysis Expressions)**: For creating measures and KPIs.
 - **Excel**: Used as the source of raw data.
 
-### 5. Key Insights
+### 5. Key Insights:
 
 - **Urban Areas Have More Accidents**:  
   Casualties are significantly higher in urban areas, suggesting a need for improved traffic management in cities.
@@ -40,7 +40,7 @@ This project is a dynamic and interactive Power BI dashboard designed to analyze
 - **Daylight Accidents are More Frequent**:  
   Most accidents occur during daylight hours, possibly due to higher traffic volumes.
 
-### 6. Dataset
+### 6. Dataset:
 
 The dataset includes road accident records with fields like:
 - Accident severity (fatal, serious, slight)
