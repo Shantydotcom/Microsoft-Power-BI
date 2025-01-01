@@ -1,5 +1,7 @@
 # Product Sales Analysis
 
+[![Product Sales Analysis]https://github.com/Shantydotcom/Microsoft-Power-BI-Projects/blob/main/Product%20Sales%20Analysis/Product%20Sales%20Analysis.png)
+
 This project is a interactive product sales dashboard and report. The project includes concepts such as conditional formatting, time intelligence functions, and new card visuals.
 
 ## Dashboard Features
