@@ -1,6 +1,6 @@
 # Furniture Store Analysis Dashboard
 
-[![Sales Dashboard](https://github.com/Shantydotcom/Microsoft-Power-BI-Projects/blob/main/Furniture%20Store%20Sales/Sales%20Dashboard.png)
+![Sales Dashboard](https://github.com/Shantydotcom/Microsoft-Power-BI-Projects/blob/main/Furniture%20Store%20Sales/Sales%20Dashboard.png)
 
 This project focuses on utilizing data analysis and time series forecasting to enhance business decision-making. The dashboard is designed to provide valuable insights into sales performance, and KPIs, supporting strategic goals like growth, efficiency, and customer satisfaction.
 
