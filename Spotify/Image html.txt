@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+    <meta charset='UTF-8'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0'>
+    <title>Image Crop with Rounded Corners</title>
+    <style>
+        .image-container {
+            width: 500px; /* Set the desired width */
+            aspect-ratio: 16 / 9;
+            border-radius: 16px; /* Rounded corners */
+            overflow: hidden; /* Ensures the image stays within bounds */
+            position: relative;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .image-container img {
+            width: 100%; /* Ensures the image covers the container */
+            height: auto;
+            object-fit: cover; /* Ensures the image fills the container */
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+        }
+    </style>
+</head>
+<body>
+    <div class='image-container'>
+        <img src='https://via.placeholder.com/1920x1080' alt='Album Cover'>
+    </div>
+</body>
+</html>
